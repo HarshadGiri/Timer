@@ -63,7 +63,7 @@ function startpause(){
 else{ 
     window.clearInterval(interval);
     document.getElementById('start').innerHTML = "Start";
-    status = "stopped"
+    status = "Stopped"
 
 
 }

@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 body{
     
     background-color: black;
+    font-family: Montserrat;
 }
 
 .time{
@@ -48,13 +50,17 @@ padding-right: 70px;
 font-size: 25px;
 color: white;
 background-color: black;
+font-family: Montserrat;
 }
+
 
 #reset
 {
 padding-left: 67px;
 padding-right: 67px;
 font-size: 25px;
+font-family: Montserrat;
+
 color:black;
 margin-bottom: 20px;
 border: solid 1px;
